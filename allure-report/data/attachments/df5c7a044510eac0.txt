@@ -1,0 +1,1 @@
+As expected the user is unable to login with invalid credentials

@@ -1,0 +1,45 @@
+api => browser.newContext started info 
+api <= browser.newContext succeeded info 
+api => browserContext.newPage started info 
+api <= browserContext.newPage succeeded info 
+api => page.goto started info 
+api <= page.goto succeeded info 
+api => expect.toHaveURL started info 
+api <= expect.toHaveURL succeeded info 
+api => expect.toContainText started info 
+api <= expect.toContainText succeeded info 
+api => locator.fill started info 
+api <= locator.fill succeeded info 
+api => locator.fill started info 
+api <= locator.fill succeeded info 
+api => locator.click started info 
+api <= locator.click succeeded info 
+The user is successfully logged in with valid credentals
+api => locator.waitFor started info 
+api <= locator.waitFor succeeded info 
+api => locator.isVisible started info 
+api => expect.toContainText started info 
+api <= locator.isVisible succeeded info 
+api <= expect.toContainText succeeded info 
+The user traversed to Products page
+api => locator.waitFor started info 
+api <= locator.waitFor succeeded info 
+api => locator.isVisible started info 
+api <= locator.isVisible succeeded info 
+api => locator.count started info 
+api <= locator.count succeeded info 
+api => locator.textContent started info 
+api <= locator.textContent succeeded info 
+api => locator.click started info 
+api <= locator.click succeeded info 
+api => locator.waitFor started info 
+api <= locator.waitFor succeeded info 
+api => locator.isVisible started info 
+api <= locator.isVisible succeeded info 
+api => locator.count started info 
+api <= locator.count succeeded info 
+api => locator.textContent started info 
+api <= locator.textContent succeeded info 
+api => locator.isDisabled started info 
+api <= locator.isDisabled succeeded info 
+Remove button exist and is enabled!!

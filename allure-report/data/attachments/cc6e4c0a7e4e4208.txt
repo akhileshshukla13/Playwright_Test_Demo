@@ -1,0 +1,3 @@
+The user is successfully logged in with valid credentals
+The user traversed to Products page
+Remove button exist and is enabled!!

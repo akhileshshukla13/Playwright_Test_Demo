@@ -1,0 +1,5 @@
+api => browser.newContext started
+api <= browser.newContext succeeded
+api => browserContext.newPage started
+api <= browserContext.newPage succeeded
+As expected the user is unable to login with invalid credentials

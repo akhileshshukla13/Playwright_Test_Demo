@@ -1,0 +1,11 @@
+The user is successfully logged in with valid credentals
+The user traversed to Products page
+Remove button exist and is enabled!!
+The user traversed to 'Your information page'
+The user has filled all the details in the 'Your information page'
+Count is 1
+Individual Amount is   $29.99
+Individual Sum is   29.99
+Final Sum is   29.99
+Final Tax value of the cart is  2.4
+Final cart value is correct

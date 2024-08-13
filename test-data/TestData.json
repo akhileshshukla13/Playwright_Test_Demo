@@ -1,0 +1,25 @@
+{
+  "userCreds": {
+    "valid_creds": "standard_user",
+    "invalid_creds": "locked_out_user",
+    "password": "secret_sauce"
+  },
+  "env": {
+    "url": "https://www.saucedemo.com/"
+  },
+  "pageTitles": {
+    "pageTitle1": "Swag Labs",
+    "pageTitle2": "Products",
+    "pageTitle3": "Your Cart",
+    "pageTitle4": "Checkout: Overview",
+    "pageTitle5": "Checkout: Your Information"
+  },
+  "productDetails": {
+    "product1": "Sauce Labs Backpack"
+  },
+  "userInformation": {
+    "userFirstName": "Advait",
+    "userLastName": "Pillai",
+    "userAreaPostalCode": "110001"
+  }
+}

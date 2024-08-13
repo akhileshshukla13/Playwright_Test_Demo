@@ -1,0 +1,35 @@
+{
+  "name": "playwright_automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test tests/saucelabsdemo.spec.js",
+    "firefoxNewConfig": "npx playwright test --project=firefox",
+    "webTests": "npx playwright test --grep @Web",
+    "allureCommandOne": "npx playwright test --reporter=line,allure-playwright",
+    "allureCommandTwo": "allure generate allure-results -o allure-report --clean",
+    "allureCommandThree": "allure open allure-report",
+    "code-coverage-check": "npx nyc --reporter=lcov --reporter=text-lcov playwright test",
+    "postinstall": "npm update browserstack-node-sdk",
+    "test-browserstack": "npx browserstack-node-sdk playwright test tests/saucelabsdemo.spec.js",
+    "firefoxNewConfig-browserstack": "npx browserstack-node-sdk playwright test --project=firefox",
+    "webTests-browserstack": "npx browserstack-node-sdk playwright test --grep @Web",
+    "allureCommandOne-browserstack": "npx browserstack-node-sdk playwright test --reporter=line,allure-playwright",
+    "code-coverage-check-browserstack": "npx nyc --reporter=lcov --reporter=text-lcov browserstack-node-sdk playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.38.1",
+    "@types/node": "^20.7.1",
+    "allure-commandline": "^2.24.1",
+    "allure-playwright": "^2.8.1",
+    "browserstack-node-sdk": "^1.28.2",
+    "nyc": "^15.1.0"
+  },
+  "dependencies": {
+    "exceljs": "^4.3.0"
+  }
+}

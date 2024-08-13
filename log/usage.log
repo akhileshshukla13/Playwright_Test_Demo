@@ -1,0 +1,355 @@
+2023-10-06 18:16:43 - [32minfo[39m: Creating configuration file...
+2023-10-06 18:16:43 - [32minfo[39m: Adding new script(s) in package.json...
+2023-10-06 18:16:43 - [32minfo[39m: Setup completed
+2023-10-06 18:16:54 - [32minfo[39m: Creating configuration file...
+2023-10-06 18:16:54 - [32minfo[39m: Setup completed
+2023-10-06 18:23:14 - [32minfo[39m: Reading configs from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\browserstack.yml
+2023-10-06 18:23:24 - [32minfo[39m: Local binary started successfully
+2023-10-06 18:23:25 - [32minfo[39m: Getting your playwright config from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright.config.js
+2023-10-06 18:23:25 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-10-06 18:23:27 - [31merror[39m: Access to BrowserStack Test Observability denied due to incorrect credentials.
+2023-10-06 18:23:45 - [32minfo[39m: Deleting C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright-browserstack-sdk.config.js
+2023-10-06 18:23:48 - [32minfo[39m: Local binary stopped
+2023-10-06 18:26:05 - [32minfo[39m: Creating configuration file...
+2023-10-06 18:26:05 - [32minfo[39m: Setup completed
+2023-10-06 18:26:13 - [32minfo[39m: Reading configs from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\browserstack.yml
+2023-10-06 18:26:18 - [32minfo[39m: Local binary started successfully
+2023-10-06 18:26:21 - [32minfo[39m: Getting your playwright config from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright.config.js
+2023-10-06 18:26:21 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-10-06 18:27:33 - [32minfo[39m: Visit https://observability.browserstack.com/builds/rigocijvimkgwbntnxbtjqibnoakumtgt92dyee6 to view build report, insights, and many more debugging information all at one place!
+
+2023-10-06 18:27:34 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/0f5104aca026bfd8db09ea07572fcb2f25195a4a
+2023-10-06 18:27:35 - [32minfo[39m: Deleting C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright-browserstack-sdk.config.js
+2023-10-06 18:27:37 - [32minfo[39m: Local binary stopped
+2023-10-06 18:42:29 - [32minfo[39m: Reading configs from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\browserstack.yml
+2023-10-06 18:42:33 - [32minfo[39m: Local binary started successfully
+2023-10-06 18:42:35 - [32minfo[39m: Getting your playwright config from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright.config.js
+2023-10-06 18:42:35 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-10-06 18:43:35 - [32minfo[39m: Visit https://observability.browserstack.com/builds/0b6za78fpgmsqngaiibudw3gzctlilkuootiurxo to view build report, insights, and many more debugging information all at one place!
+
+2023-10-06 18:43:36 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/31164c01fe4cc4b3c5056a3eee93e0f68804fb29
+2023-10-06 18:43:37 - [32minfo[39m: Deleting C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright-browserstack-sdk.config.js
+2023-10-06 18:43:40 - [32minfo[39m: Local binary stopped
+2023-10-06 19:02:17 - [32minfo[39m: Reading configs from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\browserstack.yml
+2023-10-06 19:02:21 - [32minfo[39m: Local binary started successfully
+2023-10-06 19:02:23 - [32minfo[39m: Getting your playwright config from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright.config.js
+2023-10-06 19:02:23 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-10-06 19:02:52 - [32minfo[39m: Visit https://observability.browserstack.com/builds/2m1oos76yjixfvinpyvdkcxyznjoqpnr5y9s2d7o to view build report, insights, and many more debugging information all at one place!
+
+2023-10-06 19:02:54 - [32minfo[39m: Local binary stopped
+2023-10-06 19:02:56 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/37afdd4dc9f2b67f8b0e1fc07c9554f5f0f89c42
+2023-10-06 19:02:56 - [32minfo[39m: Deleting C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright-browserstack-sdk.config.js
+2023-10-06 19:04:26 - [32minfo[39m: Reading configs from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\browserstack.yml
+2023-10-06 19:04:30 - [32minfo[39m: Local binary started successfully
+2023-10-06 19:04:32 - [32minfo[39m: Getting your playwright config from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright.config.js
+2023-10-06 19:04:33 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-10-06 19:04:58 - [32minfo[39m: Visit https://observability.browserstack.com/builds/8ntbhgmjcwuk1sm8b56nznzeij55mkn8rqsq1jck to view build report, insights, and many more debugging information all at one place!
+
+2023-10-06 19:04:58 - [32minfo[39m: Local binary stopped
+2023-10-06 19:05:00 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/41c705c0d52cb3935fde8b89ca6b1579b33a602c
+2023-10-06 19:05:01 - [32minfo[39m: Deleting C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright-browserstack-sdk.config.js
+2023-10-06 19:07:45 - [32minfo[39m: Reading configs from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\browserstack.yml
+2023-10-06 19:07:49 - [32minfo[39m: Local binary started successfully
+2023-10-06 19:07:51 - [32minfo[39m: Getting your playwright config from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright.config.js
+2023-10-06 19:07:51 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-10-06 19:08:50 - [32minfo[39m: Visit https://observability.browserstack.com/builds/zvpgz9bqmsej9gn2yxdjc7grfxy38tp0lggc6kbz to view build report, insights, and many more debugging information all at one place!
+
+2023-10-06 19:08:50 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/a48a947d5bc6efc7c23ce84516019e7a14202ee7
+2023-10-06 19:08:51 - [32minfo[39m: Deleting C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright-browserstack-sdk.config.js
+2023-10-06 19:08:54 - [32minfo[39m: Local binary stopped
+2023-10-06 19:09:53 - [32minfo[39m: Reading configs from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\browserstack.yml
+2023-10-06 19:09:58 - [32minfo[39m: Local binary started successfully
+2023-10-06 19:10:00 - [32minfo[39m: Getting your playwright config from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright.config.js
+2023-10-06 19:10:00 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-10-06 19:10:53 - [32minfo[39m: Visit https://observability.browserstack.com/builds/70fwyiqqtjgipfbiyeupn9ybksulixhvangvxdyu to view build report, insights, and many more debugging information all at one place!
+
+2023-10-06 19:10:53 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/ec7f70e516a5ebcc9bf26eb69058796cb680440c
+2023-10-06 19:10:54 - [32minfo[39m: Deleting C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright-browserstack-sdk.config.js
+2023-10-06 19:10:56 - [32minfo[39m: Local binary stopped
+2023-10-06 19:18:46 - [32minfo[39m: Reading configs from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\browserstack.yml
+2023-10-06 19:18:51 - [32minfo[39m: Local binary started successfully
+2023-10-06 19:18:54 - [32minfo[39m: Getting your playwright config from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright.config.js
+2023-10-06 19:18:54 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-10-06 19:19:09 - [32minfo[39m: Visit https://observability.browserstack.com/builds/shs8x1jasg3bqhqr7bgtwatlzft4dlutylbwlwee to view build report, insights, and many more debugging information all at one place!
+
+2023-10-06 19:19:09 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/7d29ee5a931a33183f7ed8405599f12320b6177a
+2023-10-06 19:19:10 - [32minfo[39m: Deleting C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright-browserstack-sdk.config.js
+2023-10-06 19:19:13 - [32minfo[39m: Local binary stopped
+2023-10-06 19:55:58 - [32minfo[39m: Reading configs from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\browserstack.yml
+2023-10-06 19:56:03 - [32minfo[39m: Local binary started successfully
+2023-10-06 19:56:05 - [32minfo[39m: Getting your playwright config from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright.config.js
+2023-10-06 19:56:05 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-10-06 19:56:20 - [32minfo[39m: Visit https://observability.browserstack.com/builds/f9esyzbkyroe8tpuzcbrv2zydzyuuo9lckwflivp to view build report, insights, and many more debugging information all at one place!
+
+2023-10-06 19:56:20 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/ddfc7784cd711731d14e557526366548d0f6b2af
+2023-10-06 19:56:21 - [32minfo[39m: Deleting C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright-browserstack-sdk.config.js
+2023-10-06 19:56:23 - [32minfo[39m: Local binary stopped
+2023-10-06 19:57:01 - [32minfo[39m: Reading configs from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\browserstack.yml
+2023-10-06 19:57:04 - [32minfo[39m: Local binary started successfully
+2023-10-06 19:57:07 - [32minfo[39m: Getting your playwright config from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright.config.js
+2023-10-06 19:57:07 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-10-06 19:57:20 - [32minfo[39m: Visit https://observability.browserstack.com/builds/sqxaylxytomvbhrpfsgq7vdstzjz9ifwfsgasvl8 to view build report, insights, and many more debugging information all at one place!
+
+2023-10-06 19:57:21 - [32minfo[39m: Deleting C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright-browserstack-sdk.config.js
+2023-10-06 19:58:18 - [32minfo[39m: Reading configs from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\browserstack.yml
+2023-10-06 19:58:21 - [32minfo[39m: Local binary started successfully
+2023-10-06 19:58:23 - [32minfo[39m: Getting your playwright config from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright.config.js
+2023-10-06 19:58:23 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-10-06 19:58:38 - [32minfo[39m: Visit https://observability.browserstack.com/builds/y971rkkfiysutrg5xlh4iobj551ys5k9xdjdvfg9 to view build report, insights, and many more debugging information all at one place!
+
+2023-10-06 19:58:38 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/eca6a8d5d91dc9fae7b76bd4c72ffb4c28c234bb
+2023-10-06 19:58:39 - [32minfo[39m: Deleting C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright-browserstack-sdk.config.js
+2023-10-06 19:58:41 - [32minfo[39m: Local binary stopped
+2023-10-06 19:59:19 - [32minfo[39m: Reading configs from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\browserstack.yml
+2023-10-06 19:59:23 - [32minfo[39m: Local binary started successfully
+2023-10-06 19:59:24 - [32minfo[39m: Getting your playwright config from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright.config.js
+2023-10-06 19:59:24 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-10-06 19:59:31 - [32minfo[39m: Visit https://observability.browserstack.com/builds/nx7ywj0lppit256vme9yav1sbe9swr8oswi8pquz to view build report, insights, and many more debugging information all at one place!
+
+2023-10-06 19:59:32 - [32minfo[39m: Deleting C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright-browserstack-sdk.config.js
+2023-10-06 19:59:35 - [32minfo[39m: Local binary stopped
+2023-10-06 20:00:41 - [32minfo[39m: Reading configs from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\browserstack.yml
+2023-10-06 20:00:45 - [32minfo[39m: Local binary started successfully
+2023-10-06 20:00:46 - [32minfo[39m: Getting your playwright config from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright.config.js
+2023-10-06 20:00:47 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-10-06 20:00:53 - [32minfo[39m: Visit https://observability.browserstack.com/builds/ddyhfyipyyl3feswrh8nexqxberq4nl2nimfsnhz to view build report, insights, and many more debugging information all at one place!
+
+2023-10-06 20:00:55 - [32minfo[39m: Deleting C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright-browserstack-sdk.config.js
+2023-10-06 20:00:57 - [32minfo[39m: Local binary stopped
+2023-10-06 20:01:48 - [32minfo[39m: Reading configs from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\browserstack.yml
+2023-10-06 20:01:52 - [32minfo[39m: Local binary started successfully
+2023-10-06 20:01:53 - [32minfo[39m: Getting your playwright config from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright.config.js
+2023-10-06 20:01:54 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-10-06 20:02:00 - [32minfo[39m: Visit https://observability.browserstack.com/builds/6g9x2o4gahhasolx9xxx4qddu3chfpdalynhc5hn to view build report, insights, and many more debugging information all at one place!
+
+2023-10-06 20:02:01 - [32minfo[39m: Deleting C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright-browserstack-sdk.config.js
+2023-10-06 20:02:04 - [32minfo[39m: Local binary stopped
+2023-10-06 20:02:11 - [32minfo[39m: Reading configs from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\browserstack.yml
+2023-10-06 20:02:15 - [32minfo[39m: Local binary started successfully
+2023-10-06 20:02:17 - [32minfo[39m: Getting your playwright config from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright.config.js
+2023-10-06 20:02:17 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-10-06 20:02:52 - [32minfo[39m: Visit https://observability.browserstack.com/builds/8sikq5tqgitoundw8futds4zjp7a5rugmoga7fim to view build report, insights, and many more debugging information all at one place!
+
+2023-10-06 20:02:52 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/c6e0fc2523b16dbf2e12098cee502a97a0839088
+2023-10-06 20:02:53 - [32minfo[39m: Deleting C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright-browserstack-sdk.config.js
+2023-10-06 20:02:55 - [32minfo[39m: Local binary stopped
+2023-10-06 20:04:45 - [32minfo[39m: Reading configs from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\browserstack.yml
+2023-10-06 20:04:50 - [32minfo[39m: Local binary started successfully
+2023-10-06 20:04:52 - [32minfo[39m: Getting your playwright config from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright.config.js
+2023-10-06 20:04:52 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-10-06 20:05:07 - [32minfo[39m: Visit https://observability.browserstack.com/builds/bs0bkntzdnsn3uitjltuyj35psj54xtsqqsfz1wo to view build report, insights, and many more debugging information all at one place!
+
+2023-10-06 20:05:08 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/298574797a5e5cfc3a6bd623356dfbf01c967d55
+2023-10-06 20:05:08 - [32minfo[39m: Deleting C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright-browserstack-sdk.config.js
+2023-10-06 20:05:11 - [32minfo[39m: Local binary stopped
+2023-10-06 20:14:11 - [32minfo[39m: Reading configs from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\browserstack.yml
+2023-10-06 20:14:15 - [32minfo[39m: Local binary started successfully
+2023-10-06 20:14:17 - [32minfo[39m: Getting your playwright config from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright.config.js
+2023-10-06 20:14:17 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-10-06 20:14:33 - [32minfo[39m: Visit https://observability.browserstack.com/builds/famqr6m8j3db8qkj9ltl874rhqlibpthvdqfa9x6 to view build report, insights, and many more debugging information all at one place!
+
+2023-10-06 20:14:33 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/d584ad3f334e2421a4126c9f6a653ecc5767e380
+2023-10-06 20:14:34 - [32minfo[39m: Deleting C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright-browserstack-sdk.config.js
+2023-10-06 20:14:36 - [32minfo[39m: Local binary stopped
+2023-10-06 20:22:26 - [32minfo[39m: Reading configs from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\browserstack.yml
+2023-10-06 20:22:31 - [32minfo[39m: Local binary started successfully
+2023-10-06 20:22:33 - [32minfo[39m: Getting your playwright config from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright.config.js
+2023-10-06 20:22:33 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-10-06 20:22:47 - [32minfo[39m: Visit https://observability.browserstack.com/builds/cbjjimxnuxgrgwtukebkmqydvvbbiuel9hxu2vwo to view build report, insights, and many more debugging information all at one place!
+
+2023-10-06 20:22:48 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/a3333e0452d07298fa2dc9fca4329e8295acc584
+2023-10-06 20:22:48 - [32minfo[39m: Deleting C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright-browserstack-sdk.config.js
+2023-10-06 20:22:51 - [32minfo[39m: Local binary stopped
+2023-10-06 20:26:57 - [32minfo[39m: Reading configs from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\browserstack.yml
+2023-10-06 20:27:02 - [32minfo[39m: Local binary started successfully
+2023-10-06 20:27:04 - [32minfo[39m: Getting your playwright config from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright.config.js
+2023-10-06 20:27:04 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-10-06 20:27:12 - [32minfo[39m: Visit https://observability.browserstack.com/builds/wf0fguuzq4gc129ijjrwpst3kkqybklqpbbzw9hd to view build report, insights, and many more debugging information all at one place!
+
+2023-10-06 20:27:12 - [32minfo[39m: Deleting C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright-browserstack-sdk.config.js
+2023-10-06 20:27:15 - [32minfo[39m: Local binary stopped
+2023-10-06 20:27:47 - [32minfo[39m: Reading configs from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\browserstack.yml
+2023-10-06 20:27:50 - [32minfo[39m: Local binary started successfully
+2023-10-06 20:27:52 - [32minfo[39m: Getting your playwright config from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright.config.js
+2023-10-06 20:27:52 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-10-06 20:27:59 - [32minfo[39m: Visit https://observability.browserstack.com/builds/p3w0q1lowuiepv9ddbzbywpvveqpq7fcgnrwwyud to view build report, insights, and many more debugging information all at one place!
+
+2023-10-06 20:28:00 - [32minfo[39m: Deleting C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright-browserstack-sdk.config.js
+2023-10-06 20:28:03 - [32minfo[39m: Local binary stopped
+2023-10-06 20:28:43 - [32minfo[39m: Reading configs from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\browserstack.yml
+2023-10-06 20:28:47 - [32minfo[39m: Local binary started successfully
+2023-10-06 20:28:48 - [32minfo[39m: Getting your playwright config from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright.config.js
+2023-10-06 20:28:48 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-10-06 20:29:03 - [32minfo[39m: Visit https://observability.browserstack.com/builds/fylsfaga3poxg9otwd8vtd40t9wxa2feiry4ze2s to view build report, insights, and many more debugging information all at one place!
+
+2023-10-06 20:29:04 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/6387331b0fabae1cc2f4107c6a036bbf96470314
+2023-10-06 20:29:04 - [32minfo[39m: Deleting C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright-browserstack-sdk.config.js
+2023-10-06 20:29:07 - [32minfo[39m: Local binary stopped
+2023-10-06 20:33:48 - [32minfo[39m: Reading configs from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\browserstack.yml
+2023-10-06 20:33:52 - [32minfo[39m: Local binary started successfully
+2023-10-06 20:33:54 - [32minfo[39m: Getting your playwright config from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright.config.js
+2023-10-06 20:33:54 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-10-06 20:34:17 - [32minfo[39m: Visit https://observability.browserstack.com/builds/8uddqyuhchtdzff03paij3g1rp697sq8wju7xqc0 to view build report, insights, and many more debugging information all at one place!
+
+2023-10-06 20:34:18 - [32minfo[39m: Local binary stopped
+2023-10-06 20:34:19 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/38c1e7c74d933c819641d4d3ce22b75277db85a7
+2023-10-06 20:34:20 - [32minfo[39m: Deleting C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright-browserstack-sdk.config.js
+2023-10-06 20:39:20 - [32minfo[39m: Reading configs from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\browserstack.yml
+2023-10-06 20:39:25 - [32minfo[39m: Local binary started successfully
+2023-10-06 20:39:26 - [32minfo[39m: Getting your playwright config from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright.config.js
+2023-10-06 20:39:27 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-10-06 20:39:49 - [32minfo[39m: Visit https://observability.browserstack.com/builds/q2wpeh7egj0kqmrm1dcnavlallmskxyjevxaby9k to view build report, insights, and many more debugging information all at one place!
+
+2023-10-06 20:39:49 - [32minfo[39m: Deleting C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright-browserstack-sdk.config.js
+2023-10-06 20:39:52 - [32minfo[39m: Local binary stopped
+2023-10-06 20:41:02 - [32minfo[39m: Reading configs from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\browserstack.yml
+2023-10-06 20:41:06 - [32minfo[39m: Local binary started successfully
+2023-10-06 20:41:08 - [32minfo[39m: Getting your playwright config from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright.config.js
+2023-10-06 20:41:08 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-10-06 20:41:32 - [32minfo[39m: Visit https://observability.browserstack.com/builds/o4rxjzuw6zmfvmtpgtax88msp72gqnrk65qpuuyr to view build report, insights, and many more debugging information all at one place!
+
+2023-10-06 20:41:33 - [32minfo[39m: Deleting C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright-browserstack-sdk.config.js
+2023-10-06 20:45:20 - [32minfo[39m: Reading configs from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\browserstack.yml
+2023-10-06 20:45:24 - [32minfo[39m: Local binary started successfully
+2023-10-06 20:45:26 - [32minfo[39m: Getting your playwright config from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright.config.js
+2023-10-06 20:45:26 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-10-06 20:45:45 - [32minfo[39m: Visit https://observability.browserstack.com/builds/ml6splbs3u9o3360zbxg3vvszcgehnzhbfj94bsw to view build report, insights, and many more debugging information all at one place!
+
+2023-10-06 20:45:46 - [32minfo[39m: Deleting C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright-browserstack-sdk.config.js
+2023-10-06 20:45:49 - [32minfo[39m: Local binary stopped
+2023-10-06 20:50:10 - [32minfo[39m: Reading configs from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\browserstack.yml
+2023-10-06 20:50:15 - [32minfo[39m: Local binary started successfully
+2023-10-06 20:50:16 - [32minfo[39m: Getting your playwright config from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright.config.js
+2023-10-06 20:50:17 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-10-06 20:50:30 - [32minfo[39m: Visit https://observability.browserstack.com/builds/mzbnsqwkqywkm7jo3um7fftdhe0hywzcd0nkfm7k to view build report, insights, and many more debugging information all at one place!
+
+2023-10-06 20:50:30 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/039308e56f1e8aa446f52778f251fd98f20b948f
+2023-10-06 20:50:31 - [32minfo[39m: Deleting C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright-browserstack-sdk.config.js
+2023-10-06 20:50:34 - [32minfo[39m: Local binary stopped
+2023-10-06 20:52:08 - [32minfo[39m: Reading configs from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\browserstack.yml
+2023-10-06 20:52:12 - [32minfo[39m: Local binary started successfully
+2023-10-06 20:52:13 - [32minfo[39m: Getting your playwright config from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright.config.js
+2023-10-06 20:52:13 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-10-06 20:52:31 - [32minfo[39m: Visit https://observability.browserstack.com/builds/nx8q6zhucqargk1uegtzhho5bch6xvie82kmspmk to view build report, insights, and many more debugging information all at one place!
+
+2023-10-06 20:52:31 - [32minfo[39m: Deleting C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright-browserstack-sdk.config.js
+2023-10-06 20:52:34 - [32minfo[39m: Local binary stopped
+2023-10-06 20:56:46 - [32minfo[39m: Reading configs from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\browserstack.yml
+2023-10-06 20:56:49 - [32minfo[39m: Local binary started successfully
+2023-10-06 20:56:51 - [32minfo[39m: Getting your playwright config from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright.config.js
+2023-10-06 20:56:51 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-10-06 20:57:25 - [32minfo[39m: Visit https://observability.browserstack.com/builds/fpsovkqqppyyrve6mlzw9bbhf5cssmbmbngfpmlt to view build report, insights, and many more debugging information all at one place!
+
+2023-10-06 20:57:25 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/575140df168bb160bac3094a92a7e6c8c09f267f
+2023-10-06 20:57:26 - [32minfo[39m: Deleting C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright-browserstack-sdk.config.js
+2023-10-06 20:57:29 - [32minfo[39m: Local binary stopped
+2023-10-06 21:01:43 - [32minfo[39m: Reading configs from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\browserstack.yml
+2023-10-06 21:01:47 - [32minfo[39m: Local binary started successfully
+2023-10-06 21:01:49 - [32minfo[39m: Getting your playwright config from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright.config.js
+2023-10-06 21:01:49 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-10-06 21:02:00 - [32minfo[39m: Visit https://observability.browserstack.com/builds/vjbvz14zqdlzlmjlkkdsuk0bugyfduilfdwlk9fe to view build report, insights, and many more debugging information all at one place!
+
+2023-10-06 21:02:01 - [32minfo[39m: Deleting C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright-browserstack-sdk.config.js
+2023-10-06 21:02:04 - [32minfo[39m: Local binary stopped
+2023-10-06 21:02:31 - [32minfo[39m: Reading configs from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\browserstack.yml
+2023-10-06 21:02:35 - [32minfo[39m: Local binary started successfully
+2023-10-06 21:02:36 - [32minfo[39m: Getting your playwright config from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright.config.js
+2023-10-06 21:02:37 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-10-06 21:02:48 - [32minfo[39m: Visit https://observability.browserstack.com/builds/lnyvh7xetpxd9gycmacyj7wnr1nlymjnapv9zhcq to view build report, insights, and many more debugging information all at one place!
+
+2023-10-06 21:02:49 - [32minfo[39m: Deleting C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright-browserstack-sdk.config.js
+2023-10-06 21:02:52 - [32minfo[39m: Local binary stopped
+2023-10-06 21:03:10 - [32minfo[39m: Reading configs from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\browserstack.yml
+2023-10-06 21:03:14 - [32minfo[39m: Local binary started successfully
+2023-10-06 21:03:16 - [32minfo[39m: Getting your playwright config from C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright.config.js
+2023-10-06 21:03:16 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-10-06 21:03:37 - [32minfo[39m: Visit https://observability.browserstack.com/builds/worivdg9caqxpbc4qxyg4st4v4rtomhhcx5liiq9 to view build report, insights, and many more debugging information all at one place!
+
+2023-10-06 21:03:38 - [32minfo[39m: Deleting C:\Users\SandeepUnnikrishnanP\Documents\automation-playwright\playwright-browserstack-sdk.config.js
+2023-10-09 11:44:50 - [32minfo[39m: Creating configuration file...
+2023-10-09 11:44:50 - [32minfo[39m: Adding new script(s) in package.json...
+2023-10-09 11:44:50 - [32minfo[39m: Setup completed
+2023-10-09 11:52:33 - [32minfo[39m: Reading configs from C:\Users\AkhileshShukla\OneDrive - Anthology Inc\Desktop\Anthology\POC\Playwright-Test-Demo\browserstack.yml
+2023-10-09 11:52:33 - [31merror[39m: Error: LocalError: Couldn't find binary file
+    at BrowserStackSetup.setupBrowserstackLocal (C:\Users\AkhileshShukla\OneDrive - Anthology Inc\Desktop\Anthology\POC\Playwright-Test-Demo\node_modules\browserstack-node-sdk\src\helpers\BrowserStackSetup.js:1:17190)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async BrowserStackSetup.initialize (C:\Users\AkhileshShukla\OneDrive - Anthology Inc\Desktop\Anthology\POC\Playwright-Test-Demo\node_modules\browserstack-node-sdk\src\helpers\BrowserStackSetup.js:1:14974)
+    at async run (C:\Users\AkhileshShukla\OneDrive - Anthology Inc\Desktop\Anthology\POC\Playwright-Test-Demo\node_modules\browserstack-node-sdk\src\bin\playwright\command.js:2:29240)
+    at async captureError (C:\Users\AkhileshShukla\OneDrive - Anthology Inc\Desktop\Anthology\POC\Playwright-Test-Demo\node_modules\browserstack-node-sdk\src\bin\runner.js:2:4062)
+2023-10-09 11:53:41 - [32minfo[39m: Reading configs from C:\Users\AkhileshShukla\OneDrive - Anthology Inc\Desktop\Anthology\POC\Playwright-Test-Demo\browserstack.yml
+2023-10-09 11:53:42 - [31merror[39m: Error: LocalError: Couldn't find binary file
+    at BrowserStackSetup.setupBrowserstackLocal (C:\Users\AkhileshShukla\OneDrive - Anthology Inc\Desktop\Anthology\POC\Playwright-Test-Demo\node_modules\browserstack-node-sdk\src\helpers\BrowserStackSetup.js:1:17190)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async BrowserStackSetup.initialize (C:\Users\AkhileshShukla\OneDrive - Anthology Inc\Desktop\Anthology\POC\Playwright-Test-Demo\node_modules\browserstack-node-sdk\src\helpers\BrowserStackSetup.js:1:14974)
+    at async run (C:\Users\AkhileshShukla\OneDrive - Anthology Inc\Desktop\Anthology\POC\Playwright-Test-Demo\node_modules\browserstack-node-sdk\src\bin\playwright\command.js:2:29240)
+    at async captureError (C:\Users\AkhileshShukla\OneDrive - Anthology Inc\Desktop\Anthology\POC\Playwright-Test-Demo\node_modules\browserstack-node-sdk\src\bin\runner.js:2:4062)
+2023-10-09 11:55:37 - [32minfo[39m: Creating configuration file...
+2023-10-09 11:55:37 - [32minfo[39m: Setup completed
+2023-10-09 11:57:08 - [32minfo[39m: Reading configs from C:\Users\AkhileshShukla\OneDrive - Anthology Inc\Desktop\Anthology\POC\Playwright-Test-Demo\browserstack.yml
+2023-10-09 11:57:08 - [31merror[39m: Error: LocalError: Couldn't find binary file
+    at BrowserStackSetup.setupBrowserstackLocal (C:\Users\AkhileshShukla\OneDrive - Anthology Inc\Desktop\Anthology\POC\Playwright-Test-Demo\node_modules\browserstack-node-sdk\src\helpers\BrowserStackSetup.js:1:17190)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async BrowserStackSetup.initialize (C:\Users\AkhileshShukla\OneDrive - Anthology Inc\Desktop\Anthology\POC\Playwright-Test-Demo\node_modules\browserstack-node-sdk\src\helpers\BrowserStackSetup.js:1:14974)
+    at async run (C:\Users\AkhileshShukla\OneDrive - Anthology Inc\Desktop\Anthology\POC\Playwright-Test-Demo\node_modules\browserstack-node-sdk\src\bin\playwright\command.js:2:29240)
+    at async captureError (C:\Users\AkhileshShukla\OneDrive - Anthology Inc\Desktop\Anthology\POC\Playwright-Test-Demo\node_modules\browserstack-node-sdk\src\bin\runner.js:2:4062)
+2023-10-09 12:37:56 - [32minfo[39m: Reading configs from C:\Users\AkhileshShukla\OneDrive - Anthology Inc\Desktop\Anthology\POC\Playwright-Test-Demo\browserstack.yml
+2023-10-09 12:37:56 - [31merror[39m: Error: LocalError: Couldn't find binary file
+    at BrowserStackSetup.setupBrowserstackLocal (C:\Users\AkhileshShukla\OneDrive - Anthology Inc\Desktop\Anthology\POC\Playwright-Test-Demo\node_modules\browserstack-node-sdk\src\helpers\BrowserStackSetup.js:1:17190)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async BrowserStackSetup.initialize (C:\Users\AkhileshShukla\OneDrive - Anthology Inc\Desktop\Anthology\POC\Playwright-Test-Demo\node_modules\browserstack-node-sdk\src\helpers\BrowserStackSetup.js:1:14974)
+    at async run (C:\Users\AkhileshShukla\OneDrive - Anthology Inc\Desktop\Anthology\POC\Playwright-Test-Demo\node_modules\browserstack-node-sdk\src\bin\playwright\command.js:2:29240)
+    at async captureError (C:\Users\AkhileshShukla\OneDrive - Anthology Inc\Desktop\Anthology\POC\Playwright-Test-Demo\node_modules\browserstack-node-sdk\src\bin\runner.js:2:4062)
+2023-10-09 16:01:15 - [32minfo[39m: Reading configs from C:\Users\AkhileshShukla\OneDrive - Anthology Inc\Desktop\Anthology\POC\Playwright-Test-Demo\browserstack.yml
+2023-10-09 16:01:34 - [32minfo[39m: Local binary started successfully
+2023-10-09 16:01:36 - [32minfo[39m: Getting your playwright config from C:\Users\AkhileshShukla\OneDrive - Anthology Inc\Desktop\Anthology\POC\Playwright-Test-Demo\playwright.config.js
+2023-10-09 16:01:36 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-10-09 16:01:37 - [31merror[39m: Access to BrowserStack Test Observability denied due to incorrect credentials.
+2023-10-09 16:01:41 - [32minfo[39m: Deleting C:\Users\AkhileshShukla\OneDrive - Anthology Inc\Desktop\Anthology\POC\Playwright-Test-Demo\playwright-browserstack-sdk.config.js
+2023-10-09 16:01:44 - [32minfo[39m: Local binary stopped
+2023-10-09 16:02:54 - [32minfo[39m: Creating configuration file...
+2023-10-09 16:02:54 - [32minfo[39m: Setup completed
+2023-10-09 16:03:53 - [32minfo[39m: Reading configs from C:\Users\AkhileshShukla\OneDrive - Anthology Inc\Desktop\Anthology\POC\Playwright-Test-Demo\browserstack.yml
+2023-10-09 16:04:09 - [32minfo[39m: Local binary started successfully
+2023-10-09 16:04:11 - [32minfo[39m: Getting your playwright config from C:\Users\AkhileshShukla\OneDrive - Anthology Inc\Desktop\Anthology\POC\Playwright-Test-Demo\playwright.config.js
+2023-10-09 16:04:11 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-10-09 16:04:16 - [32minfo[39m: Deleting C:\Users\AkhileshShukla\OneDrive - Anthology Inc\Desktop\Anthology\POC\Playwright-Test-Demo\playwright-browserstack-sdk.config.js
+2023-10-09 16:04:19 - [32minfo[39m: Local binary stopped
+2023-10-09 16:09:05 - [32minfo[39m: Reading configs from C:\Users\AkhileshShukla\OneDrive - Anthology Inc\Desktop\Anthology\POC\Playwright-Test-Demo\browserstack.yml
+2023-10-09 16:09:22 - [32minfo[39m: Local binary started successfully
+2023-10-09 16:09:24 - [32minfo[39m: Getting your playwright config from C:\Users\AkhileshShukla\OneDrive - Anthology Inc\Desktop\Anthology\POC\Playwright-Test-Demo\playwright.config.js
+2023-10-09 16:09:25 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-10-09 16:09:30 - [32minfo[39m: Deleting C:\Users\AkhileshShukla\OneDrive - Anthology Inc\Desktop\Anthology\POC\Playwright-Test-Demo\playwright-browserstack-sdk.config.js
+2023-10-09 16:09:33 - [32minfo[39m: Local binary stopped
+2023-10-09 16:12:01 - [32minfo[39m: Reading configs from C:\Users\AkhileshShukla\OneDrive - Anthology Inc\Desktop\Anthology\POC\Playwright-Test-Demo\browserstack.yml
+2023-10-09 16:12:16 - [32minfo[39m: Local binary started successfully
+2023-10-09 16:12:18 - [32minfo[39m: Getting your playwright config from C:\Users\AkhileshShukla\OneDrive - Anthology Inc\Desktop\Anthology\POC\Playwright-Test-Demo\playwright.config.js
+2023-10-09 16:12:18 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-10-09 16:12:24 - [32minfo[39m: Deleting C:\Users\AkhileshShukla\OneDrive - Anthology Inc\Desktop\Anthology\POC\Playwright-Test-Demo\playwright-browserstack-sdk.config.js
+2023-10-09 16:12:26 - [32minfo[39m: Local binary stopped
+2023-10-09 16:16:49 - [32minfo[39m: Reading configs from C:\Users\AkhileshShukla\OneDrive - Anthology Inc\Desktop\Anthology\POC\Playwright-Test-Demo\browserstack.yml
+2023-10-09 16:16:54 - [31merror[39m: Error: LocalError: Looks like you have SSL inspection enabled. You can either bypass *.browserstack.com or disable SSL inspection entirely for BrowserStack local to connect.
+ Please contact your enterprise network administrator for more details. If the issue persists, please contact our support team.
+ Alternatively, you can pass root CA certificates to binary using the flags --use-ca-certificate <.pem file> for win and --use-system-installed-ca for mac/linux
+    at BrowserStackSetup.setupBrowserstackLocal (C:\Users\AkhileshShukla\OneDrive - Anthology Inc\Desktop\Anthology\POC\Playwright-Test-Demo\node_modules\browserstack-node-sdk\src\helpers\BrowserStackSetup.js:1:17190)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async BrowserStackSetup.initialize (C:\Users\AkhileshShukla\OneDrive - Anthology Inc\Desktop\Anthology\POC\Playwright-Test-Demo\node_modules\browserstack-node-sdk\src\helpers\BrowserStackSetup.js:1:14974)
+    at async run (C:\Users\AkhileshShukla\OneDrive - Anthology Inc\Desktop\Anthology\POC\Playwright-Test-Demo\node_modules\browserstack-node-sdk\src\bin\playwright\command.js:2:29240)
+    at async captureError (C:\Users\AkhileshShukla\OneDrive - Anthology Inc\Desktop\Anthology\POC\Playwright-Test-Demo\node_modules\browserstack-node-sdk\src\bin\runner.js:2:4062)
+2023-10-09 16:17:28 - [32minfo[39m: Reading configs from C:\Users\AkhileshShukla\OneDrive - Anthology Inc\Desktop\Anthology\POC\Playwright-Test-Demo\browserstack.yml
+2023-10-09 16:17:44 - [32minfo[39m: Local binary started successfully
+2023-10-09 16:17:46 - [32minfo[39m: Getting your playwright config from C:\Users\AkhileshShukla\OneDrive - Anthology Inc\Desktop\Anthology\POC\Playwright-Test-Demo\playwright.config.js
+2023-10-09 16:17:46 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-10-09 16:17:52 - [32minfo[39m: Deleting C:\Users\AkhileshShukla\OneDrive - Anthology Inc\Desktop\Anthology\POC\Playwright-Test-Demo\playwright-browserstack-sdk.config.js
+2023-10-09 16:17:55 - [32minfo[39m: Local binary stopped
+2023-10-09 16:18:19 - [32minfo[39m: Reading configs from C:\Users\AkhileshShukla\OneDrive - Anthology Inc\Desktop\Anthology\POC\Playwright-Test-Demo\browserstack.yml
+2023-10-09 16:18:35 - [32minfo[39m: Local binary started successfully
+2023-10-09 16:18:37 - [32minfo[39m: Getting your playwright config from C:\Users\AkhileshShukla\OneDrive - Anthology Inc\Desktop\Anthology\POC\Playwright-Test-Demo\playwright.config.js
+2023-10-09 16:18:37 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-10-09 16:18:44 - [32minfo[39m: Deleting C:\Users\AkhileshShukla\OneDrive - Anthology Inc\Desktop\Anthology\POC\Playwright-Test-Demo\playwright-browserstack-sdk.config.js
+2023-10-09 16:18:47 - [32minfo[39m: Local binary stopped
+2023-10-09 16:29:41 - [32minfo[39m: Reading configs from C:\Users\AkhileshShukla\OneDrive - Anthology Inc\Desktop\Anthology\POC\Playwright-Test-Demo\browserstack.yml
+2023-10-09 16:29:58 - [32minfo[39m: Local binary started successfully
+2023-10-09 16:30:00 - [32minfo[39m: Getting your playwright config from C:\Users\AkhileshShukla\OneDrive - Anthology Inc\Desktop\Anthology\POC\Playwright-Test-Demo\playwright.config.js
+2023-10-09 16:30:00 - [32minfo[39m: Adding browserstack configs to setup for Observability
+2023-10-09 16:30:06 - [32minfo[39m: Deleting C:\Users\AkhileshShukla\OneDrive - Anthology Inc\Desktop\Anthology\POC\Playwright-Test-Demo\playwright-browserstack-sdk.config.js
+2023-10-09 16:30:09 - [32minfo[39m: Local binary stopped

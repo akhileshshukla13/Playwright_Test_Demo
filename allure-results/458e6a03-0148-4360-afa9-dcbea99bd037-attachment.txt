@@ -1,0 +1,9 @@
+api => browser.newContext started info 
+api <= browser.newContext succeeded info 
+api => browserContext.newPage started info 
+api <= browserContext.newPage succeeded info 
+The user is successfully logged in with valid credentals
+The user traversed to Products page
+Remove button exist and is enabled!!
+The user traversed to 'Your information page'
+The user has filled all the details in the 'Your information page'
